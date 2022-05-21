@@ -1,25 +1,26 @@
 
-Mentoria: Abstraindo situações do mundo real com Orientação a Objetos
+# Mentoria: Abstraindo situações do mundo real com Orientação a Objetos
 ⚠️ SLIDES DA MENTORIA ⚠️
-O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA, COMPOSIÇÃO E POLIMORFISMO através de um projeto Java.
+## O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA, COMPOSIÇÃO E POLIMORFISMO através de um projeto Java.
 
 🛑 Pré-Requisitos
 ✅ Conhecer a sintaxe da Java
 ✅ Java JDK 8+
 ✅ IDE para desenvolvimento Java (usarei IntelliJ)
+
 🎯 Desafio
 Modelar as entidades de uma aplicação de Gerenciamento de Colaboradores de uma loja.
 Dentre as outras funcionalidades (as quais você não precisará implementar), esse sistema terá a funcionalidade de calcular a bonificação dos colaboradores dessa loja seguindo as seguintes regras:
 
-Vendedor é um Funcionário CLT e tem o benefício de bonificação.
-Operador de Caixa é um funcionário CLT, mas não tem o benefício da bonificação.
-Gerente é um Funcionário PJ e tem o benefício da bonificação.
-Colaboradores
-Vendedor:
+- Vendedor é um Funcionário CLT e tem o benefício de bonificação.
+- Operador de Caixa é um funcionário CLT, mas não tem o benefício da bonificação.
+- Gerente é um Funcionário PJ e tem o benefício da bonificação.
+## Colaboradores
+## Vendedor:
 nome, documento, salario, valor da bonificação e endereço.
-Operador de Caixa:
+## Operador de Caixa:
 nnome, documento, salario e endereço.
-Gerente:
+## Gerente:
 nome, documento, horas trabalhadas, valorHora, endereço e valor da bonificação.
 📚 Paradigma de Programação Orientado a Objetos (POO)
 pilares-POO
@@ -64,4 +65,4 @@ Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça algu
 Se possível:
 ⭐️ Star o projeto
 🐛 Encontrar e relatar issues
-Disponibilizado com ♥ por cami-la DIO-Digital Innovation One.
+Disponibilizado com ♥ por cami-la DIO-Digital Innovation One - GFT Start #5.
